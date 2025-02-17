@@ -14,7 +14,7 @@ Objetivo: Implementar um algoritmo de programação dinâmica para encontrar o c
 Descrição: O trabalho envolve a implementação de um algoritmo que calcula o caminho mais seguro para um prisioneiro escapar de uma caverna, considerando a presença de monstros e poções que afetam os pontos de vida. O algoritmo deve ser capaz de lidar com diferentes entradas e determinar se a saída é possível.
   Requisitos: Linguagem de programação C, Compilador GCC.
 Compilação e Execução: Para compilar o código, execute:  
-**make <nome_arquivo.txt>**
+**make <nome_arquivo.txt>**  
 Para mais informações, consulte a **Documentação do Trabalho 2**.
 
 ## Trabalho 3: Análise de Algoritmos de Criptografia e Busca por Padrão
