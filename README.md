@@ -17,13 +17,13 @@ Compilação e Execução: Para compilar o código, execute:
 **make <nome_arquivo.txt>**
 Para mais informações, consulte a **Documentação do Trabalho 2**.
 
-# Trabalho 3: Análise de Algoritmos de Criptografia e Busca por Padrão
+## Trabalho 3: Análise de Algoritmos de Criptografia e Busca por Padrão
 
 Objetivo: Implementar algoritmos de criptografia e análise de padrões em cadeias de caracteres.  
 Descrição: O trabalho consiste em implementar dois algoritmos distintos: um para a cifra de deslocamento (criptografia) e outro para o casamento de padrões em textos. O primeiro algoritmo deve permitir a criptografia e descriptografia de arquivos, enquanto o segundo deve buscar padrões em um texto fornecido.
   Requisitos: Linguagem de programação C, Compilador GCC.
-Compilação e Execução: Para compilar o código, execute:  
-**make all**
-Para executar o programa, use:
-**./programa**
+Compilação e Execução: Para compilar o código, execute:    
+**make all**  
+Para executar o programa, use:  
+**./programa**  
 Para mais informações, consulte a **Documentação do Trabalho 3**.
